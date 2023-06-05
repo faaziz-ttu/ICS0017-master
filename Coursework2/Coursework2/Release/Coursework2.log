@@ -1,0 +1,6 @@
+﻿  Coursework2.cpp
+  DataStrcuture.cpp
+  Header_A.cpp
+  Item_9.cpp
+Coursework2.obj : error LNK2001: unresolved external symbol __imp__GetItem
+D:\C\ICS0017\Coursework2\Release\Coursework2.exe : fatal error LNK1120: 1 unresolved externals

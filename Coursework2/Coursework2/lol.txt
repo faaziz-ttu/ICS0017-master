@@ -1,0 +1,7 @@
+Burnt Umber;2630315777;1;27;54;
+Dark Khaki;1621674161;10;51;57;
+Fuchsia Rose;2624873912;20;3;53;
+Light Cyan;2637349562;0;31;4;
+Princeton Orange;3198773126;23;35;45;
+Raw Umber;1373532405;14;49;30;
+Safety Orange;1559502395;13;0;12;
